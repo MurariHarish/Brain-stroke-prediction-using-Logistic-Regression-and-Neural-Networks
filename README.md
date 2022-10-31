@@ -1,1 +1,1 @@
-# Heart-stroke-prediction-using-Logistic-Regression-and-Neural-Networks
+# Brain-stroke-prediction-using-Logistic-Regression-and-Neural-Networks
